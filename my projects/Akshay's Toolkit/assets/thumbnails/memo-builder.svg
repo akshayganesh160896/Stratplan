@@ -1,0 +1,19 @@
+<svg width="1200" height="700" viewBox="0 0 1200 700" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1200" y2="700" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#2B193D"/>
+      <stop offset="1" stop-color="#614385"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="700" fill="url(#bg2)"/>
+  <rect x="160" y="90" width="880" height="520" rx="26" fill="#ffffff18" stroke="#ffffff38"/>
+  <rect x="220" y="145" width="560" height="52" rx="10" fill="#ffffffd0"/>
+  <rect x="220" y="225" width="760" height="22" rx="6" fill="#ffffff9c"/>
+  <rect x="220" y="265" width="700" height="22" rx="6" fill="#ffffff9c"/>
+  <rect x="220" y="305" width="725" height="22" rx="6" fill="#ffffff9c"/>
+  <rect x="220" y="345" width="690" height="22" rx="6" fill="#ffffff9c"/>
+  <rect x="220" y="400" width="250" height="65" rx="10" fill="#00C2FF"/>
+  <rect x="490" y="400" width="250" height="65" rx="10" fill="#7F5AF0"/>
+  <text x="220" y="180" fill="#18122B" font-size="34" font-family="Arial, sans-serif" font-weight="700">Memo Builder</text>
+  <text x="220" y="550" fill="#fff" font-size="28" font-family="Arial, sans-serif">Write polished memos faster</text>
+</svg>

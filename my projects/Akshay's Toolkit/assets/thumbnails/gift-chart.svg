@@ -1,0 +1,23 @@
+<svg width="1200" height="700" viewBox="0 0 1200 700" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="700" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#1A2A6C"/>
+      <stop offset="1" stop-color="#2EC4B6"/>
+    </linearGradient>
+    <linearGradient id="card" x1="0" y1="0" x2="400" y2="260" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FEE440"/>
+      <stop offset="1" stop-color="#FF7B54"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="700" fill="url(#bg)"/>
+  <circle cx="1030" cy="90" r="130" fill="#ffffff22"/>
+  <circle cx="130" cy="610" r="170" fill="#ffffff14"/>
+  <rect x="120" y="150" width="960" height="400" rx="28" fill="#ffffff18" stroke="#ffffff40"/>
+  <rect x="170" y="220" width="430" height="260" rx="20" fill="url(#card)"/>
+  <rect x="640" y="220" width="390" height="50" rx="10" fill="#ffffffbb"/>
+  <rect x="640" y="295" width="320" height="32" rx="8" fill="#ffffff99"/>
+  <rect x="640" y="347" width="365" height="32" rx="8" fill="#ffffff99"/>
+  <rect x="640" y="399" width="280" height="32" rx="8" fill="#ffffff99"/>
+  <text x="180" y="290" fill="#112" font-size="42" font-family="Arial, sans-serif" font-weight="700">One-Click Gift Chart</text>
+  <text x="180" y="340" fill="#112" font-size="24" font-family="Arial, sans-serif">Smart gift planning in seconds</text>
+</svg>

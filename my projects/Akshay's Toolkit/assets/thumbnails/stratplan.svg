@@ -1,0 +1,22 @@
+<svg width="1200" height="700" viewBox="0 0 1200 700" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg3" x1="0" y1="0" x2="1200" y2="700" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0F2027"/>
+      <stop offset="1" stop-color="#2C5364"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="700" fill="url(#bg3)"/>
+  <circle cx="1080" cy="130" r="110" fill="#42E2B822"/>
+  <rect x="120" y="110" width="960" height="480" rx="30" fill="#ffffff14" stroke="#ffffff30"/>
+  <rect x="170" y="170" width="250" height="360" rx="16" fill="#17394A"/>
+  <rect x="450" y="170" width="250" height="360" rx="16" fill="#1A4B5F"/>
+  <rect x="730" y="170" width="300" height="360" rx="16" fill="#24657E"/>
+  <rect x="190" y="220" width="210" height="14" rx="4" fill="#8BE9FD"/>
+  <rect x="470" y="220" width="210" height="14" rx="4" fill="#FFD166"/>
+  <rect x="750" y="220" width="260" height="14" rx="4" fill="#F8961E"/>
+  <rect x="190" y="255" width="160" height="11" rx="4" fill="#ffffff99"/>
+  <rect x="470" y="255" width="180" height="11" rx="4" fill="#ffffff99"/>
+  <rect x="750" y="255" width="170" height="11" rx="4" fill="#ffffff99"/>
+  <text x="165" y="585" fill="#fff" font-size="40" font-family="Arial, sans-serif" font-weight="700">Stratplan</text>
+  <text x="388" y="585" fill="#ffffffcc" font-size="28" font-family="Arial, sans-serif">Strategy mapped with clarity</text>
+</svg>
